@@ -103,5 +103,13 @@
     "url": "https://www.interviewbit.com/blog/cyber-security-projects/",
     "category": "resources",
     "subcategory": "project-ideas"
-  }
+  },
+ {
+  "name":"Mern Projects",
+  "description": "This website provides free and beginner-friendly project ideas along with sample repositories.",
+  "url": "https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k",
+  "category":"resources",
+  "subcategory":"project-ideas"
+ }
+  
 ]
